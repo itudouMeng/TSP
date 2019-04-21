@@ -6,7 +6,11 @@ README
 ## 目录
 * [TSP](#TSP)
 * [结果](#结果)
+---
 
+TSP
+---
+![问题描述及数学模型](https://en.wikipedia.org/wiki/Travelling_salesman_problem#cite_note-26)
 
 结果
 -------
