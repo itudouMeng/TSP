@@ -17,8 +17,9 @@ TSP
 ***
 CA
 -----
-![result](/result/TSP问题求解结果(蚁群算法).jpg)
+![CA](/result/TSP问题求解结果(蚁群算法).jpg)
 
 ***
 ECA
 ---
+![ECA](result/TSP问题求解结果（精英蚂蚁系统）.jpg)
