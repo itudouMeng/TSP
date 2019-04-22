@@ -1,7 +1,7 @@
 README
 ===========================
 ![label](https://img.shields.io/badge/TSP-ACO-brightgreen.svg)
-基本蚁群算法(ACO)用于求解旅行商(TSP)问题
+蚁群算法(ACO)用于求解旅行商(TSP)问题
 
 ## 目录
 * [TSP问题描述](#TSP)
@@ -20,9 +20,11 @@ TSP
 ---
 CA
 ---
+蚂蚁系统（colony system,CS）求解结果仿真图：
 ![CA](/result/TSP问题求解结果(蚁群算法).jpg)
 
 ***
 ECA
 ---
+精英蚂蚁系统（elitism colony system,ECS）求解结果仿真图：
 ![ECA](result/TSP问题求解结果（精英蚂蚁系统）.jpg)
