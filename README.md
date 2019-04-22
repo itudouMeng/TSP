@@ -6,8 +6,8 @@ README
 ## 目录
 * [TSP问题描述](#TSP)
 * [求解算法](#求解算法)
-   * [蚂蚁系统(CA)](#CA)
-   * [精英蚂蚁系统(ECA)](#ECA)
+   * [蚂蚁系统(CS)](#CS)
+   * [精英蚂蚁系统(ECS)](#ECS)
 
 ***
 
@@ -18,13 +18,13 @@ TSP
 ***
 求解算法
 ---
-CA
+CS
 ---
 蚂蚁系统（colony system,CS）求解结果仿真图：
 ![CA](/result/TSP问题求解结果(蚁群算法).jpg)
 
 ***
-ECA
+ECS
 ---
 精英蚂蚁系统（elitism colony system,ECS）求解结果仿真图：
 ![ECA](result/TSP问题求解结果（精英蚂蚁系统）.jpg)
