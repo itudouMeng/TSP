@@ -20,11 +20,11 @@ TSP
 ---
 AS
 ---
-蚂蚁系统（colony system,CS）求解结果仿真图：
+蚂蚁系统（ant system,AS）求解结果仿真图：
 ![AS](/result/TSP问题求解结果(蚁群算法).jpg)
 
 ***
 EAS
 ---
-精英蚂蚁系统（elitism colony system,ECS）求解结果仿真图：
+精英蚂蚁系统（elitism ant system,EAS）求解结果仿真图：
 ![EAS](result/TSP问题求解结果（精英蚂蚁系统）.jpg)
